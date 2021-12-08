@@ -1,2 +1,2 @@
 # R_application_in_ecology
- 2021.9-2021.12 instruucted by WANG Zhiheng
+ 2021.9-2021.12 instructed by WANG Zhiheng
